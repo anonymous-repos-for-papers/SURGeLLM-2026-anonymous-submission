@@ -22,7 +22,6 @@ code_paper/
 │   ├── 06_data_modeling_and_evaluation_time_series.py
 │   ├── 07_data_modeling_and_evaluation_automl.py
 │   └── 08_complete_forecast.py
-└── writting/                    # Thesis figures and LaTeX sources
 ```
 
 ## Data
